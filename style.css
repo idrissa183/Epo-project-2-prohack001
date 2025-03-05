@@ -69,6 +69,6 @@ button {
 
 #galerie img {
     width: 100%;
-    max-width: 200px;
+    max-width: 300px; /* Modification de 200px à 300px*/
     margin: 10px;
 }
